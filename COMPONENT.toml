@@ -3,7 +3,7 @@ name = "SigmaOS-arch-ninja"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-ninja component"
+description = "SigmaOS SigmaOS-arch-ninja component"
 upstream = []
 
 [contract]
