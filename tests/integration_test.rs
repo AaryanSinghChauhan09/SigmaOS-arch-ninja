@@ -1,4 +1,4 @@
-use arch_ninja::Component;
+use sigmaos_ninja::Component;
 
 #[test]
 fn test_component_new_aaa() {

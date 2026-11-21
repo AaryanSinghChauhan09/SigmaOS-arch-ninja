@@ -1,6 +1,6 @@
-# SigmaOS-arch-ninja
+# SigmaOS-ninja
 
-SigmaOS SigmaOS-arch-ninja component
+SigmaOS SigmaOS-ninja component
 
 - **Category:** Components
 - **Engine:** component
